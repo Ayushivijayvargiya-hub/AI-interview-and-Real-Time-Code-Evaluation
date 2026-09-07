@@ -60,22 +60,6 @@ npm run dev  # Starts backend on http://localhost:8000
 
 ---
 
-## 🚀 Deployment
-### **Frontend**: Deployed on **Netlify**
-```sh
-npm run build  # Generates optimized build files
-```
-
-### **Backend**: Deployed on **AWS Lambda** via **Serverless Framework**
-```sh
-serverless deploy
-```
-
----
 
 
 
-## 👥 Contributors
-- **Nikhil Saxena** – [GitHub](https://github.com/Cleveridiot07)
-
-Pull requests are welcome! 🚀
